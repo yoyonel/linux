@@ -1,0 +1,7 @@
+/home/latty/log/dstats.log {
+	rotate 5
+	weekly
+	compress
+	missingok
+	notifempty
+}
