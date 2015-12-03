@@ -1,0 +1,1 @@
+ wine "/home/latty/__DEV__/__Ifsttar__/LivraisonPlateformeSymuvia 11062012/SymuNet/SymuNet.exe"

@@ -1,0 +1,1 @@
+wine /home/latty/__DEV__/__Ifsttar__/Envoi_IGN_2015/New_Symunet/SymuNet.exe
