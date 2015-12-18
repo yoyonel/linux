@@ -12,6 +12,8 @@ source ~/__DEV__/__SCRIPTS__/set_env_android.sh
 source ~/__DEV__/__SCRIPTS__/set_env_scala.sh
 source ~/__DEV__/__SCRIPTS__/set_env_go.sh
 source ~/__DEV__/__SCRIPTS__/set_env_bablib.sh
+source ~/__DEV__/__SCRIPTS__/set_env_ROS.sh
+source ~/__DEV__/__SCRIPTS__/set_env_atom.sh
 
 echo
 echo "Set the https_proxy equal to http_proxy (= $http_proxy)"
