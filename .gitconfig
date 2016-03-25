@@ -1,5 +1,6 @@
 
 ###############################################
+# url: http://michaelwales.com/articles/make-gitconfig-work-for-you/
 
 [alias]
     addremove = !git r && git add . --all
