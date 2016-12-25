@@ -1,0 +1,18 @@
+pcm.btheadset {
+    type bluetooth
+    #device 00:11:67:AF:7E:BD
+    device 00:18:09:23:17:86
+    profile "auto"
+}
+
+pcm.btheadset_gbs {
+    type bluetooth
+    device 00:11:67:AF:7E:BD
+    profile "auto"
+}
+
+pcm.btheadset_u2boom {
+    type bluetooth
+    device 88:C6:26:7A:BE:FB
+    profile "auto"
+}
